@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T15:15:59.070Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="wwym0-uIfEKtAl7suYGw" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-04T15:22:51.730Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="kI1wtXUJDXr0E5kMVspZ" version="21.3.2" type="github">
   <diagram id="Ox1ZG-4mkPjB1nI01aAr" name="Page-1">
     <mxGraphModel dx="3069" dy="969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
             <mxPoint x="360" y="398" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RXrVStK6t4icnvPlraWm-14" value="Get watch signal (ppg, eda, ir...)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="RXrVStK6t4icnvPlraWm-14" value="Get watch signal (ppg, eda, acc...)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-180" y="280" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RXrVStK6t4icnvPlraWm-16" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
